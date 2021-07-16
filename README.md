@@ -1,0 +1,28 @@
+
+
+
+
+
+# E-L7ANOUTA
+
+to start using the app :
+
+--------------------------in folder E-L7ANOUTA 
+
+virtualenv env
+
+.\env\Scripts\activate
+
+pip install -r requirement.txt
+pip install xhtml2pdf
+
+
+--------------------------in folder ECOMMERCE
+
+python manage.py runserver
+
+CLIENT :
+
+Home page :
+ 
+ 
